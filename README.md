@@ -1,2 +1,3 @@
 # BA-assistant-Coin-World-
 “BA assistant-Coin World”technical support
+"BA assistant-Coin World" is an app for reading currency information. Users can view the latest quotation information of currency on the home page, and can see the hot news we push on the "news" page. At the same time, we also provide "circle" for users to communicate. We open the blocking and reporting functions to monitor the content published by users, so as to ensure the healthy and safe communication environment. Come and experience it…For any comments and suggestions, please contact us:“BA assistant-Coin World” official email:clubcivic@hotmail.com
